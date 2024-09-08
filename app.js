@@ -99,7 +99,8 @@ console.log("Exercise 6 answer: ", userProfile)
 /***************
 ***EXERCISE 7***
 ***************/
-//Practicing import and export. 
+console.log("Exercise 7: run (node importingFile.js) for logged answers.")
+
 
 
 /***************
